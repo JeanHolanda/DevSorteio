@@ -9,3 +9,5 @@ Tecnologias utilizadas:
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/JeanHolanda/DevSorteio/e6ec4027ee87c62117dcc804b1ba378a8eae11c9/assets/Macbook%20Mockup.png">
+<br>
+<img src="https://raw.githubusercontent.com/JeanHolanda/DevSorteio/e6ec4027ee87c62117dcc804b1ba378a8eae11c9/assets/cellphone.png" width= 750px>
